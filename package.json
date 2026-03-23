@@ -1,9 +1,9 @@
-
 {
-  "name": "ala1",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build"
-  }
+ "name":"ala1-final",
+ "version":"1.0.0",
+ "dependencies":{
+  "openai":"^4.0.0",
+  "node-cron":"^3.0.0",
+  "puppeteer":"^22.0.0"
+ }
 }
