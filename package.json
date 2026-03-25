@@ -1,9 +1,7 @@
 {
- "name":"ala1-final-v2",
- "version":"1.0.0",
- "dependencies":{
-  "openai":"^4.0.0",
-  "node-cron":"^3.0.0",
-  "puppeteer":"^22.0.0"
- }
+  "name":"ala1-security-patch",
+  "version":"1.0.0",
+  "dependencies":{
+    "@supabase/supabase-js":"^2.0.0"
+  }
 }
