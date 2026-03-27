@@ -1,27 +1,14 @@
 {
-  "name": "ala1-cyberpunk-claw",
+  "name": "ala1",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "matter-js": "^0.19.0",
-    "tone": "^14.8.49",
-    "@supabase/supabase-js": "^2.39.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "typescript": "^5",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.0"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
